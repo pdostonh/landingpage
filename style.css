@@ -144,7 +144,7 @@ a {
     justify-content: center;
     align-items: center;
 }
-/*sign part has a problem*/
+
 .sign-part .sign-cover .padding-container {
     width: 70%;
     display: flex;
@@ -184,7 +184,3 @@ a {
     padding: 24px 0;
     color: #E5E7EB;
 }
-
-/*padding container was added later,
-so, some css might be missing.
-think about adding it, if there's bugs*/
